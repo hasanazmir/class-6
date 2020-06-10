@@ -1,0 +1,25 @@
+.green{
+    color: red;
+}
+
+p.text-center {
+    text-align: center;
+}
+table tr td{
+    border: 2px solid;
+}
+
+
+.box1 {
+    width: 200px;
+    height: 200px;
+    background: red;
+    padding: 50px;
+}
+
+.box2 {
+      width: 200px;
+    height: 200px;
+    background: green;
+    margin: 50px;
+}
